@@ -1,2 +1,2 @@
 # yandex-map-test
-<p> file test1 its a checklist </p>
+<p> The test task took about 2 hours </p>
